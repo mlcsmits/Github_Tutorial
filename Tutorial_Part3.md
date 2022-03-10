@@ -72,10 +72,7 @@ On the bottom of the window is the workspace and branch you are working in. <br>
 
 <b> But enough talking, lets get into some action!<br><br><br> </b>
 
-# even is het groot. heb de github tutorial aangepast op Mike's opmerkingen. Het verschil is dat ik nu een account heb gebruikt zonder rechten in de github tutorial
-<br>
-<br>
-<br>
+
 <br>
 
 # login with Github
