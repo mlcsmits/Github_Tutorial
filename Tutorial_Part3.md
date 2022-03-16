@@ -220,6 +220,14 @@ In the total pull request review will all comments be noted down
 <br>
 <br>
 
+## branches
+
+Working directly on someone else's main branch should not be possible unless you are the owner or the admin of the repository.<br> Thereby it is also incredible rude to just change someone else's work. <br> It is also good practise to work in branches.<br><br>
+You can see branches as a copy of the main where a new feature or version will be implemented and tested before merging it back to main. <br> With this you can safely test codes or debug it while other people work on a different feature, in a branch from main.<br>
+![image](images/branches.png)
+
+
+
 
 ## Final note & Whats next
 
