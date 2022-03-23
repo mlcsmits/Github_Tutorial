@@ -116,7 +116,6 @@ You have now locally openend a github public repository in VCS.  now lets change
 
 Go click on examples and then nucleotide_counter.py
 
-![image](images/nucleotide_counter_file.py.png)
 
 when you clicked on this file a window should pop up.
 In this is it possible to edit files so lets start and make a small edit
