@@ -93,7 +93,8 @@ Following a popup should appear asking for authorisation.
 
 Continue and authorize Github
 
-In case you are not logged in, follow the direction of the website.
+In case you are not logged in, follow the direction of the website.<br>
+When the login do not popup continue with the tutorial. Later when you open and fork a repository VCS will have to let you login.
 <br><br><br>
 # forking & editing a file
 
