@@ -21,6 +21,7 @@ VCS is a source-code editor made by Microsoft and can run on Windos, Linux and m
 ## Installation
 
 Like the most programs, it can be easily installed by using the internet.<br> click [here](https://code.visualstudio.com/) for a link to download VCS. <br>
+Alternatively, you can use the online VSC editor at [vscode.dev](https://vscode.dev/). <br>
 Complete the installation by using default settings.
 
 ![image](images/Download.png)
@@ -77,7 +78,7 @@ On the bottom of the window is the workspace and branch you are working in. <br>
 
 # login with Github
 
-Since we want to work with gubhub, one of the items where Visual code studio in shines, we have to tell them who we are. <br>
+Since we want to work with GitHub, one of the items where Visual code studio in shines, we have to tell them who we are. <br>
 
 make sure you have a Github account and are logged in the website of github  ```https://github.com/ ```
 
@@ -96,6 +97,7 @@ Continue and authorize Github
 In case you are not logged in, follow the direction of the website.<br>
 When the login does not popup continue with the tutorial. Later when you open and fork a repository VS Code will have to let you login.
 <br><br><br>
+
 # forking & editing a file
 
 More often do you think items can be better from an already existing code.<br>
@@ -108,7 +110,7 @@ for example by this [tutorial](https://doc.fireflymigration.com/working-with-git
 open the atgm github tutorial pages you are reading right now in VCS by doing the following:<br>
 - click on the green button ![image](images/open_remote_repository.png)
 - on the top of your screen should a window pop up with multiple choices.
-- click on ``` open github repository ```
+- click on ``` Open Remote Repository ```, then ``` Open Repository from GitHub ```
 ![image](images/open_remote_repository2.png)
 - fill in the url extension of the github repository, ``` Avans-ATGM/Github_Tutorial ```
 
