@@ -47,7 +47,7 @@ Search for the following extensions by clicking on the extension button in the l
 <br>
 <br>
 
-## Overview of VCS
+## Overview of VSC
 
 VCS contains alot of awesome features but can be quite overwhelming in the start.<br> Luckly we already installed some extensions for quality of life.<br>
 The following gives a small overview of all functions of the tabs in VCS.<br>
@@ -63,7 +63,7 @@ The following gives a small overview of all functions of the tabs in VCS.<br>
 
 ![image](images/layout.png)
 
-On the top bar of VCS are various tabs which can be quite usefull.<br>
+On the top bar of VSC are various tabs which can be quite useful.<br>
 It's also possible to open a terminal and run various codes. <br>
 
 On the bottom of the window is the workspace and branch you are working in. <br>
