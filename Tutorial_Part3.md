@@ -94,12 +94,12 @@ Following a popup should appear asking for authorisation.
 Continue and authorize Github
 
 In case you are not logged in, follow the direction of the website.<br>
-When the login do not popup continue with the tutorial. Later when you open and fork a repository VCS will have to let you login.
+When the login does not popup continue with the tutorial. Later when you open and fork a repository VS Code will have to let you login.
 <br><br><br>
 # forking & editing a file
 
 More often do you think items can be better from an already existing code.<br>
-With Forking, are you copying someone directory to make changes and safe it as your own.
+With Forking, are you copying someone directory to make changes and save it as your own.
 
 there are easier ways to do so. 
 for example by this [tutorial](https://doc.fireflymigration.com/working-with-github-fork-in-visual-studio.html), but we follow the tutorial beneath.
@@ -107,10 +107,10 @@ for example by this [tutorial](https://doc.fireflymigration.com/working-with-git
 
 open the atgm github tutorial pages you are reading right now in VCS by doing the following:<br>
 - click on the green button ![image](images/open_remote_repository.png)
-- on the top of your screen should a window pop up with multiple choises.
+- on the top of your screen should a window pop up with multiple choices.
 - click on ``` open github repository ```
 ![image](images/open_remote_repository2.png)
-- fill in the url of the github repository, ``` https://github.com/Avans-ATGM/Github_Tutorial ```
+- fill in the url extension of the github repository, ``` Avans-ATGM/Github_Tutorial ```
 
 You have now locally openend a github public repository in VCS.  now lets change some files and make a fork by doing the following steps.
 
@@ -120,8 +120,8 @@ Go click on examples and then nucleotide_counter.py
 when you clicked on this file a window should pop up.
 In this is it possible to edit files so lets start and make a small edit
 - make a small edit
-- safe the file by ctrl-s or click on file and then safe
-- go to source controll 
+- save the file by ctrl-s or click on file and then safe
+- go to source control
 
  ![image](images/source_control.png)
 
@@ -137,30 +137,30 @@ Since we dont have any right to this github repository, it will ask us to make a
 - click on fork repository 
 - VCS studio is now asking for a branch name.
 
-a branch is a different version then the main. so you can keep the original in cases that you have made errors.
+a branch is a different version then the main. so you can keep the original in case you have made errors.
 - it will ask to switch to the fork and click on ``` switch to fork ```
 ![image](images/switch_branch.png)
 
-Github will ask for a new branch name which you have to fill in and press enter
+Github will ask for a new branch name, which you have to fill in and press enter
 ![image](images/creating_fork.png)
 
 
-Now do you have a forked github repo in your own github account.
+Now you have a forked github repo in your own github account.
 In this are you allowed to make all sorts of changes to your own liking.
 
-since you didnt own the github repository previously, you will have to safe the file again.
-- safe the file
-- commit the file by source controll and give it a proper name followed by the commit button ![image](images/commit.png)
+since you didnt own the github repository previously, you will have to save the file again.
+- save the file
+- commit the file by source control and give it a proper name followed by the commit button ![image](images/commit.png)
 
 
 
 # pulling & reviewing
 
 a pull request is the act of merging a branch into the main branch.
-You can only do this when you are an admin of a github repository which you are always of your own reposiotry.
-lets make a pull request of our created branch of the forked github repository.
+You can only do this when you are an admin of a github repository which is always the case for your own repositories.
+lets make a pull request for our created branch of the forked github repository.
 
-- Click on create pull request under source controll  ![image](images/create_pull_request.png)
+- Click on create pull request under source control  ![image](images/create_pull_request.png)
 - this should give a new window where you have to give some information
 
 ![image](images/making-pull-request.png)
@@ -175,7 +175,7 @@ In this case are you going to review your own changes, just to see the possibili
 
 - click on the files in the tab Github pull request ![image](images/pull_request_button.png)
 - click on your active pull request.
-- in this you you have various actions to review the pull request.
+- here you have various actions to review the pull request.
 - When you click on Merge pull request, the branch will be merged into the main branch.
 
 It is also possible to review and give comments.
@@ -191,7 +191,7 @@ It is also possible to review and give comments.
 
 ![image](images/commenting2.png)
 
-- other admins can read all the comments, even in VCS and keep the conversation going 
+- other admins can read all the comments, even in VS Code and keep the conversation going 
 - it is also possible to make suggestions of changes
 
 In the total pull request review will all comments be noted down
