@@ -20,11 +20,9 @@ VCS is a source-code editor made by Microsoft and can run on Windos, Linux and m
 
 ## Installation
 
-Like the most programs, it can be easily installed by using the internet.
+Like the most programs, it can be easily installed by using the internet. <br> click [here](https://code.visualstudio.com/) for a link to download VCS. <br>
 
-### click [here](https://code.visualstudio.com/) for a link to download VCS. <br>
-
-Alternatively, you can use the online VSC editor at [vscode.dev](https://vscode.dev/). <br>
+## Alternatively, you can use the online VSC editor at [vscode.dev](https://vscode.dev/). <br>
 Complete the installation by using default settings.
 
 ![image](images/Download.png)
